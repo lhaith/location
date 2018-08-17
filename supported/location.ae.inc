@@ -10,13 +10,13 @@
  */
 function location_province_list_ae() {
   return array(
-    'AZ' => "Abu Zaby",
+    'AZ' => "Abu Dhabi",
     'AJ' => "'Ajman",
-    'FU' => "Al Fujayrah",
-    'SH' => "Ash Shariqah",
+    'FU' => "Fujairah",
+    'SH' => "Sharjah",
     'DU' => "Dubai",
-    'RK' => "R'as al Khaymah",
-    'UQ' => "Umm al Qaywayn"
+    'RK' => "Ras al-Khaimah",
+    'UQ' => "Umm al-Qaiwain"
   );
 }
 
@@ -31,3 +31,12 @@ function location_bounds_ae() {
     'maxlat' => 26.241233,
   );
 }
+
+
+
+
+
+ 
+
+
+
